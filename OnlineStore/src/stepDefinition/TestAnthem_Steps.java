@@ -41,6 +41,7 @@ public class TestAnthem_Steps {
 	@Then("^Message displayed Navigation Successful$")
 	public void message_displayed_Navigation_Successful() throws Throwable {
         System.out.println("Launched and Navigated through Anthem Portal successfully");
+        System.out.println("Launched and Navigated through Anthem Portal successfully");
 	}
 
 }
